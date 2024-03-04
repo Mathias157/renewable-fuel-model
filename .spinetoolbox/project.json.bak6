@@ -1,0 +1,911 @@
+{
+    "project": {
+        "version": 6,
+        "name": "Electrolysis Infrastructure",
+        "description": "",
+        "specifications": {
+            "Tool": [
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": ".spinetoolbox/specifications/Tool/timeseries.json"
+                },
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": ".spinetoolbox/specifications/Tool/scalars.json"
+                },
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": ".spinetoolbox/specifications/Tool/postprocessing.json"
+                }
+            ],
+            "Importer": [
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": ".spinetoolbox/specifications/Importer/dataimport.json"
+                },
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": ".spinetoolbox/specifications/Importer/techimport.json"
+                },
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": ".spinetoolbox/specifications/Importer/importtimeseries.json"
+                },
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": ".spinetoolbox/specifications/Importer/importsingles.json"
+                },
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": ".spinetoolbox/specifications/Importer/importprice.json"
+                },
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": ".spinetoolbox/specifications/Importer/import_2d_rel_timeseries.json"
+                },
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": ".spinetoolbox/specifications/Importer/importinvestedunits.json"
+                },
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": ".spinetoolbox/specifications/Importer/import_3d_scalar_rel.json"
+                },
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": ".spinetoolbox/specifications/Importer/import_2d_scalars.json"
+                },
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": ".spinetoolbox/specifications/Importer/importinvestments.json"
+                }
+            ],
+            "Exporter": [
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": ".spinetoolbox/specifications/Exporter/invested_units.json"
+                },
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": ".spinetoolbox/specifications/Exporter/heat&el.json"
+                },
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": ".spinetoolbox/specifications/Exporter/demandflows.json"
+                },
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": ".spinetoolbox/specifications/Exporter/h2_production.json"
+                },
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": ".spinetoolbox/specifications/Exporter/investedobjects.json"
+                },
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": ".spinetoolbox/specifications/Exporter/fuelflows.json"
+                },
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": ".spinetoolbox/specifications/Exporter/costs.json"
+                }
+            ]
+        },
+        "connections": [
+            {
+                "from": [
+                    "DataInput",
+                    "right"
+                ],
+                "to": [
+                    "SpineOpt",
+                    "left"
+                ],
+                "resource_filters": {
+                    "db_url@DataInput": {
+                        "scenario_filter": [
+                            40
+                        ]
+                    }
+                }
+            },
+            {
+                "from": [
+                    "SpineOpt",
+                    "right"
+                ],
+                "to": [
+                    "DataOutput",
+                    "left"
+                ]
+            },
+            {
+                "from": [
+                    "Import Obj Scalars",
+                    "right"
+                ],
+                "to": [
+                    "DataInput",
+                    "left"
+                ]
+            },
+            {
+                "from": [
+                    "Import Obj Timeseries",
+                    "right"
+                ],
+                "to": [
+                    "DataInput",
+                    "left"
+                ],
+                "options": {
+                    "use_datapackage": false
+                }
+            },
+            {
+                "from": [
+                    "Scalars",
+                    "right"
+                ],
+                "to": [
+                    "Import Obj Scalars",
+                    "left"
+                ]
+            },
+            {
+                "from": [
+                    "Inputs",
+                    "right"
+                ],
+                "to": [
+                    "Scalars",
+                    "left"
+                ]
+            },
+            {
+                "from": [
+                    "Investments",
+                    "right"
+                ],
+                "to": [
+                    "ImportInvestments",
+                    "left"
+                ]
+            },
+            {
+                "from": [
+                    "Scalars",
+                    "right"
+                ],
+                "to": [
+                    "Import 3D Rel Scalars",
+                    "left"
+                ]
+            },
+            {
+                "from": [
+                    "Import 3D Rel Scalars",
+                    "right"
+                ],
+                "to": [
+                    "DataInput",
+                    "left"
+                ]
+            },
+            {
+                "from": [
+                    "Import 2D Rel Timeseries",
+                    "right"
+                ],
+                "to": [
+                    "DataInput",
+                    "left"
+                ]
+            },
+            {
+                "from": [
+                    "Scalars",
+                    "right"
+                ],
+                "to": [
+                    "Import 2D Rel Scalars",
+                    "left"
+                ]
+            },
+            {
+                "from": [
+                    "Import 2D Rel Scalars",
+                    "right"
+                ],
+                "to": [
+                    "DataInput",
+                    "left"
+                ]
+            },
+            {
+                "from": [
+                    "DataOutput",
+                    "right"
+                ],
+                "to": [
+                    "Heat&El",
+                    "left"
+                ],
+                "resource_filters": {
+                    "db_url@DataOutput": {
+                        "scenario_filter": [
+                            144,
+                            145,
+                            146
+                        ]
+                    }
+                }
+            },
+            {
+                "from": [
+                    "DataOutput",
+                    "right"
+                ],
+                "to": [
+                    "Costs",
+                    "left"
+                ],
+                "resource_filters": {
+                    "db_url@DataOutput": {
+                        "scenario_filter": [
+                            18,
+                            19,
+                            20,
+                            21
+                        ]
+                    }
+                }
+            },
+            {
+                "from": [
+                    "DataOutput",
+                    "right"
+                ],
+                "to": [
+                    "InvestedObjects",
+                    "left"
+                ],
+                "resource_filters": {
+                    "db_url@DataOutput": {
+                        "scenario_filter": [
+                            24,
+                            25,
+                            26,
+                            27
+                        ]
+                    }
+                }
+            },
+            {
+                "from": [
+                    "DataOutput",
+                    "right"
+                ],
+                "to": [
+                    "FuelFlows",
+                    "left"
+                ],
+                "resource_filters": {
+                    "db_url@DataOutput": {
+                        "scenario_filter": [
+                            24,
+                            25,
+                            26,
+                            27
+                        ]
+                    }
+                }
+            },
+            {
+                "from": [
+                    "TimeSeries",
+                    "right"
+                ],
+                "to": [
+                    "Import Obj Timeseries",
+                    "left"
+                ]
+            },
+            {
+                "from": [
+                    "BalmorelOutput",
+                    "right"
+                ],
+                "to": [
+                    "TimeSeries",
+                    "left"
+                ]
+            },
+            {
+                "from": [
+                    "Inputs",
+                    "right"
+                ],
+                "to": [
+                    "TimeSeries",
+                    "left"
+                ]
+            },
+            {
+                "from": [
+                    "TimeSeries",
+                    "right"
+                ],
+                "to": [
+                    "Import 2D Rel Timeseries",
+                    "left"
+                ]
+            }
+        ],
+        "jumps": []
+    },
+    "items": {
+        "DataInput": {
+            "type": "Data Store",
+            "description": "",
+            "x": -32.90529768190464,
+            "y": -31.3661816663398,
+            "url": {
+                "dialect": "sqlite",
+                "username": "",
+                "password": "",
+                "host": "",
+                "port": "",
+                "database": {
+                    "type": "path",
+                    "relative": true,
+                    "path": ".spinetoolbox/items/datainput/DataInput.sqlite"
+                }
+            },
+            "cancel_on_error": false
+        },
+        "SpineOpt": {
+            "type": "Tool",
+            "description": "",
+            "x": 146.19089447403206,
+            "y": -32.8566927368979,
+            "specification": "Run SpineOpt",
+            "execute_in_work": false,
+            "cmd_line_args": [
+                {
+                    "type": "resource",
+                    "arg": "db_url@DataInput"
+                },
+                {
+                    "type": "resource",
+                    "arg": "db_url@DataOutput"
+                }
+            ]
+        },
+        "DataOutput": {
+            "type": "Data Store",
+            "description": "",
+            "x": 333.61210636206505,
+            "y": -37.004965425048226,
+            "url": {
+                "dialect": "sqlite",
+                "username": "",
+                "password": "",
+                "host": "",
+                "port": "",
+                "database": {
+                    "type": "path",
+                    "relative": true,
+                    "path": ".spinetoolbox/items/dataoutput/DataOutput.sqlite"
+                }
+            },
+            "cancel_on_error": false
+        },
+        "Import Obj Timeseries": {
+            "type": "Importer",
+            "description": "",
+            "x": -222.45469485233141,
+            "y": 86.20675929402245,
+            "specification": "ImportTimeseries",
+            "cancel_on_error": false,
+            "file_selection": [
+                [
+                    "timeseries.csv",
+                    true
+                ],
+                [
+                    "timeseries_rel_2D.csv",
+                    false
+                ]
+            ]
+        },
+        "Import Obj Scalars": {
+            "type": "Importer",
+            "description": "",
+            "x": -222.75786051696213,
+            "y": -109.86781933395906,
+            "specification": "TechImport",
+            "cancel_on_error": false,
+            "file_selection": [
+                [
+                    "scalars.csv",
+                    true
+                ],
+                [
+                    "scalars_rel_2D.csv",
+                    false
+                ],
+                [
+                    "scalars_rel_3D.csv",
+                    false
+                ]
+            ]
+        },
+        "Scalars": {
+            "type": "Tool",
+            "description": "",
+            "x": -497.3084792557415,
+            "y": -176.23111006429565,
+            "specification": "Scalars",
+            "execute_in_work": false,
+            "cmd_line_args": [
+                {
+                    "type": "resource",
+                    "arg": "Inputs.xlsx"
+                }
+            ]
+        },
+        "Inputs": {
+            "type": "Data Connection",
+            "description": "",
+            "x": -750.9511525238676,
+            "y": 0.3053151190786991,
+            "references": [
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": "Inputs.xlsx"
+                }
+            ]
+        },
+        "ImportInvestments": {
+            "type": "Importer",
+            "description": "",
+            "x": -222.1161288197102,
+            "y": 410.0303928866799,
+            "specification": "ImportInvestments",
+            "cancel_on_error": false,
+            "file_selection": [
+                [
+                    "2030_investments.csv",
+                    true
+                ]
+            ]
+        },
+        "Investments": {
+            "type": "Data Connection",
+            "description": "",
+            "x": -399.309187921544,
+            "y": 579.550251598109,
+            "references": [
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": "InvestmentInput/2030_investments.csv"
+                }
+            ]
+        },
+        "Import 3D Rel Scalars": {
+            "type": "Importer",
+            "description": "",
+            "x": -220.9101808199025,
+            "y": -266.74490582289764,
+            "specification": "Import 3D Scalar Rel",
+            "cancel_on_error": false,
+            "file_selection": [
+                [
+                    "scalars.csv",
+                    false
+                ],
+                [
+                    "scalars_rel_2D.csv",
+                    false
+                ],
+                [
+                    "scalars_rel_3D.csv",
+                    true
+                ]
+            ]
+        },
+        "Import 2D Rel Timeseries": {
+            "type": "Importer",
+            "description": "",
+            "x": -219.7774059032862,
+            "y": 252.80612762302536,
+            "specification": "Import 2D Rel Timeseries",
+            "cancel_on_error": false,
+            "file_selection": [
+                [
+                    "timeseries.csv",
+                    false
+                ],
+                [
+                    "timeseries_rel_2D.csv",
+                    true
+                ]
+            ]
+        },
+        "Heat&El": {
+            "type": "Exporter",
+            "description": "",
+            "x": 555.6788154767141,
+            "y": 4.266494083522389,
+            "databases": [
+                {
+                    "output_file_name": "Heat&El.xlsx",
+                    "database_url": {
+                        "type": "file_url",
+                        "relative": true,
+                        "path": ".spinetoolbox/items/dataoutput/DataOutput.sqlite",
+                        "scheme": "sqlite"
+                    }
+                }
+            ],
+            "output_time_stamps": false,
+            "cancel_on_error": true,
+            "specification": "Heat&El"
+        },
+        "Import 2D Rel Scalars": {
+            "type": "Importer",
+            "description": "",
+            "x": -224.18770932389953,
+            "y": -416.6900384828889,
+            "specification": "Import 2D Scalars",
+            "cancel_on_error": false,
+            "file_selection": [
+                [
+                    "scalars.csv",
+                    false
+                ],
+                [
+                    "scalars_rel_2D.csv",
+                    true
+                ],
+                [
+                    "scalars_rel_3D.csv",
+                    false
+                ]
+            ]
+        },
+        "PostProcessing": {
+            "type": "Tool",
+            "description": "",
+            "x": 751.3842397889099,
+            "y": 2.4530497185004663,
+            "specification": "PostProcessing",
+            "execute_in_work": true,
+            "cmd_line_args": []
+        },
+        "BalmorelOutput": {
+            "type": "Data Connection",
+            "description": "",
+            "x": -746.8842397889099,
+            "y": 374.026887774594,
+            "references": [
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": "Balmorel Results/csv/Base/PriceHeatHourly_BaseBefore.csv"
+                },
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": "Balmorel Results/csv/Base/FuelConsumptionYearly_BaseBefore.csv"
+                },
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": "Balmorel Results/csv/Base/DemandHeatHourly_BaseBefore.csv"
+                },
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": "Balmorel Results/csv/Base/PriceElectricityHourly_BaseBefore.csv"
+                },
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": "Balmorel Results/csv/Base/DemandHeatHourly_BaseBeforeNoEXP.csv"
+                },
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": "Balmorel Results/csv/Base/PriceHeatHourly_BaseBeforeNoEXP.csv"
+                },
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": "Balmorel Results/csv/Base/FuelConsumptionYearly_BaseBeforeNoEXP.csv"
+                },
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": "Balmorel Results/csv/Base/PriceElectricityHourly_BaseBeforeNoEXP.csv"
+                },
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": "Balmorel Results/csv/Base/DemandHeatHourly_IT.csv"
+                },
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": "Balmorel Results/csv/Base/PriceHeatHourly_IT.csv"
+                },
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": "Balmorel Results/csv/Base/FuelConsumptionYearly_IT.csv"
+                },
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": "Balmorel Results/csv/Base/PriceElectricityHourly_IT.csv"
+                },
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": "Balmorel Results/csv/Base/DemandHeatHourly_MoreFuelBefore.csv"
+                },
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": "Balmorel Results/csv/Base/PriceHeatHourly_MoreFuelBefore.csv"
+                },
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": "Balmorel Results/csv/Base/PriceElectricityHourly_MoreFuelBefore.csv"
+                },
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": "Balmorel Results/csv/Base/FuelConsumptionYearly_MoreFuelBefore.csv"
+                },
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": "Balmorel Results/csv/Base/DemandHeatHourly_BaseAfter_1st.csv"
+                },
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": "Balmorel Results/csv/Base/PriceHeatHourly_BaseAfter_1st.csv"
+                },
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": "Balmorel Results/csv/Base/FuelConsumptionYearly_BaseAfter_1st.csv"
+                },
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": "Balmorel Results/csv/Base/PriceElectricityHourly_BaseAfter_1st.csv"
+                },
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": "Balmorel Results/csv/Base/DemandHeatHourly_ItalianCase.csv"
+                },
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": "Balmorel Results/csv/Base/FuelConsumptionYearly_ItalianCase.csv"
+                },
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": "Balmorel Results/csv/Base/PriceElectricityHourly_ItalianCase.csv"
+                },
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": "Balmorel Results/csv/Base/PriceHeatHourly_ItalianCase.csv"
+                }
+            ]
+        },
+        "InvestedObjects": {
+            "type": "Exporter",
+            "description": "",
+            "x": 562.598130769996,
+            "y": 141.2403719588117,
+            "databases": [
+                {
+                    "output_file_name": "unit_investments.xlsx",
+                    "database_url": {
+                        "type": "file_url",
+                        "relative": true,
+                        "path": ".spinetoolbox/items/dataoutput/DataOutput.sqlite",
+                        "scheme": "sqlite"
+                    }
+                }
+            ],
+            "output_time_stamps": false,
+            "cancel_on_error": true,
+            "specification": "ObjectsAvailable"
+        },
+        "FuelFlows": {
+            "type": "Exporter",
+            "description": "",
+            "x": 555.5029372238257,
+            "y": -138.25308065656384,
+            "databases": [
+                {
+                    "output_file_name": "fuelflows.csv",
+                    "database_url": {
+                        "type": "file_url",
+                        "relative": true,
+                        "path": ".spinetoolbox/items/dataoutput/DataOutput.sqlite",
+                        "scheme": "sqlite"
+                    }
+                }
+            ],
+            "output_time_stamps": false,
+            "cancel_on_error": true,
+            "specification": "FuelFlows"
+        },
+        "Costs": {
+            "type": "Exporter",
+            "description": "",
+            "x": 553.2440484048886,
+            "y": -261.7629582865632,
+            "databases": [
+                {
+                    "output_file_name": "costs.csv",
+                    "database_url": {
+                        "type": "file_url",
+                        "relative": true,
+                        "path": ".spinetoolbox/items/dataoutput/DataOutput.sqlite",
+                        "scheme": "sqlite"
+                    }
+                }
+            ],
+            "output_time_stamps": false,
+            "cancel_on_error": true,
+            "specification": "Costs"
+        },
+        "Data Store 1": {
+            "type": "Data Store",
+            "description": "",
+            "x": 179.02232170992198,
+            "y": -568.5502515981091,
+            "url": {
+                "dialect": "sqlite",
+                "username": "",
+                "password": "",
+                "host": "",
+                "port": "",
+                "database": {
+                    "type": "path",
+                    "relative": true,
+                    "path": ".spinetoolbox/items/dataoutput/DataOutput_Sensitivities.sqlite"
+                }
+            },
+            "cancel_on_error": false
+        },
+        "TimeSeries": {
+            "type": "Tool",
+            "description": "",
+            "x": -483.7332837087979,
+            "y": 162.35442011842088,
+            "specification": "TimeSeries",
+            "execute_in_work": true,
+            "cmd_line_args": [
+                {
+                    "type": "resource",
+                    "arg": "Inputs.xlsx"
+                },
+                {
+                    "type": "resource",
+                    "arg": "PriceElectricityHourly_ItalianCase.csv"
+                },
+                {
+                    "type": "resource",
+                    "arg": "PriceHeatHourly_ItalianCase.csv"
+                },
+                {
+                    "type": "resource",
+                    "arg": "DemandHeatHourly_ItalianCase.csv"
+                },
+                {
+                    "type": "resource",
+                    "arg": "FuelConsumptionYearly_ItalianCase.csv"
+                },
+                {
+                    "type": "resource",
+                    "arg": "PriceElectricityHourly_BaseBeforeNoEXP.csv"
+                },
+                {
+                    "type": "resource",
+                    "arg": "PriceHeatHourly_BaseBeforeNoEXP.csv"
+                },
+                {
+                    "type": "resource",
+                    "arg": "DemandHeatHourly_BaseBeforeNoEXP.csv"
+                },
+                {
+                    "type": "resource",
+                    "arg": "FuelConsumptionYearly_BaseBeforeNoEXP.csv"
+                },
+                {
+                    "type": "resource",
+                    "arg": "PriceElectricityHourly_BaseAfter_1st.csv"
+                },
+                {
+                    "type": "resource",
+                    "arg": "PriceHeatHourly_BaseAfter_1st.csv"
+                },
+                {
+                    "type": "resource",
+                    "arg": "DemandHeatHourly_BaseAfter_1st.csv"
+                },
+                {
+                    "type": "resource",
+                    "arg": "FuelConsumptionYearly_BaseAfter_1st.csv"
+                },
+                {
+                    "type": "resource",
+                    "arg": "PriceElectricityHourly_IT.csv"
+                },
+                {
+                    "type": "resource",
+                    "arg": "PriceHeatHourly_IT.csv"
+                },
+                {
+                    "type": "resource",
+                    "arg": "DemandHeatHourly_IT.csv"
+                },
+                {
+                    "type": "resource",
+                    "arg": "FuelConsumptionYearly_IT.csv"
+                },
+                {
+                    "type": "resource",
+                    "arg": "PriceElectricityHourly_MoreFuelBefore.csv"
+                },
+                {
+                    "type": "resource",
+                    "arg": "PriceHeatHourly_MoreFuelBefore.csv"
+                },
+                {
+                    "type": "resource",
+                    "arg": "DemandHeatHourly_MoreFuelBefore.csv"
+                },
+                {
+                    "type": "resource",
+                    "arg": "FuelConsumptionYearly_MoreFuelBefore.csv"
+                }
+            ]
+        }
+    }
+}

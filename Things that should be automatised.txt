@@ -1,0 +1,1 @@
+- Adding annualised CAPEX and FOM costs to other years (For now been doing manually)

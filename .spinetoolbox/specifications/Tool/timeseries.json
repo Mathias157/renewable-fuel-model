@@ -1,0 +1,23 @@
+{
+    "name": "TimeSeries",
+    "tooltype": "python",
+    "includes": [
+        "TimeSeries.py"
+    ],
+    "description": "",
+    "inputfiles": [],
+    "inputfiles_opt": [],
+    "outputfiles": [
+        "timeseries.csv",
+        "timeseries_rel_2D.csv"
+    ],
+    "cmdline_args": [],
+    "execute_in_work": true,
+    "includes_main_path": "../../..",
+    "execution_settings": {
+        "kernel_spec_name": "",
+        "env": "",
+        "use_jupyter_console": false,
+        "executable": ""
+    }
+}

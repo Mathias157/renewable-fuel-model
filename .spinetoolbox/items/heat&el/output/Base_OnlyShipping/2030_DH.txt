@@ -1,0 +1,12 @@
+DH commands
+DH('2030','DK1_Large','PtX') = 0 ;
+DH('2030','DK2_Large','PtX') = 0 ;
+DH('2030','NO1_A3','PtX') = 0 ;
+DH('2030','NO2_A2','PtX') = -236544 ;
+DH('2030','NO3_A3','PtX') = -196130 ;
+DH('2030','NO4_A2','PtX') = -100212 ;
+DH('2030','NO5_A2','PtX') = -153173 ;
+DH('2030','SE1_medium','PtX') = 0 ;
+DH('2030','SE2_medium','PtX') = 0 ;
+DH('2030','SE3_large','PtX') = -1160116 ;
+DH('2030','SE4_large','PtX') = -569316 ;

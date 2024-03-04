@@ -1,0 +1,197 @@
+{
+    "item_type": "Exporter",
+    "output_format": "Excel",
+    "name": "Heat&El",
+    "description": "",
+    "mappings": {
+        "ElOut": {
+            "type": "relationship_parameter_values",
+            "mapping": [
+                {
+                    "map_type": "RelationshipClass",
+                    "position": "hidden"
+                },
+                {
+                    "map_type": "RelationshipClassObjectClass",
+                    "position": "hidden"
+                },
+                {
+                    "map_type": "RelationshipClassObjectClass",
+                    "position": "hidden"
+                },
+                {
+                    "map_type": "RelationshipClassObjectClass",
+                    "position": "hidden"
+                },
+                {
+                    "map_type": "RelationshipClassObjectClass",
+                    "position": "hidden"
+                },
+                {
+                    "map_type": "ParameterDefinition",
+                    "position": 0,
+                    "header": "Parameter",
+                    "filter_re": "unit_flow"
+                },
+                {
+                    "map_type": "ParameterValueList",
+                    "position": "hidden",
+                    "ignorable": true
+                },
+                {
+                    "map_type": "Relationship",
+                    "position": "hidden"
+                },
+                {
+                    "map_type": "RelationshipObject",
+                    "position": "hidden"
+                },
+                {
+                    "map_type": "RelationshipObject",
+                    "position": 1,
+                    "header": "Unit",
+                    "filter_re": "El$|SellingElectricity"
+                },
+                {
+                    "map_type": "RelationshipObject",
+                    "position": 2,
+                    "header": "Node",
+                    "filter_re": "Z01$|Z02$|Z03$|Z04$|Z05$|Z06$|Z07$|Z08$|Z09$|Z10$|Z11$"
+                },
+                {
+                    "map_type": "RelationshipObject",
+                    "position": 3,
+                    "header": "Direction"
+                },
+                {
+                    "map_type": "Alternative",
+                    "position": 4,
+                    "header": "Scenario"
+                },
+                {
+                    "map_type": "ParameterValueType",
+                    "position": "hidden"
+                },
+                {
+                    "map_type": "IndexName",
+                    "position": "hidden"
+                },
+                {
+                    "map_type": "ParameterValueIndex",
+                    "position": 5,
+                    "header": "Time"
+                },
+                {
+                    "map_type": "IndexName",
+                    "position": "hidden"
+                },
+                {
+                    "map_type": "ParameterValueIndex",
+                    "position": "hidden"
+                },
+                {
+                    "map_type": "ExpandedValue",
+                    "position": 6,
+                    "header": "Value"
+                }
+            ],
+            "enabled": true,
+            "always_export_header": true,
+            "use_fixed_table_name": false
+        },
+        "Heat": {
+            "type": "relationship_parameter_values",
+            "mapping": [
+                {
+                    "map_type": "RelationshipClass",
+                    "position": "hidden"
+                },
+                {
+                    "map_type": "RelationshipClassObjectClass",
+                    "position": "hidden"
+                },
+                {
+                    "map_type": "RelationshipClassObjectClass",
+                    "position": "hidden"
+                },
+                {
+                    "map_type": "RelationshipClassObjectClass",
+                    "position": "hidden"
+                },
+                {
+                    "map_type": "RelationshipClassObjectClass",
+                    "position": "hidden"
+                },
+                {
+                    "map_type": "ParameterDefinition",
+                    "position": 0,
+                    "header": "Parameter"
+                },
+                {
+                    "map_type": "ParameterValueList",
+                    "position": "hidden",
+                    "ignorable": true
+                },
+                {
+                    "map_type": "Relationship",
+                    "position": "hidden"
+                },
+                {
+                    "map_type": "RelationshipObject",
+                    "position": "hidden"
+                },
+                {
+                    "map_type": "RelationshipObject",
+                    "position": 1,
+                    "header": "Unit",
+                    "filter_re": "SellingWasteheat|Heat"
+                },
+                {
+                    "map_type": "RelationshipObject",
+                    "position": 2,
+                    "header": "Node",
+                    "filter_re": "PotWasteheat"
+                },
+                {
+                    "map_type": "RelationshipObject",
+                    "position": 3,
+                    "header": "Direction"
+                },
+                {
+                    "map_type": "Alternative",
+                    "position": 4,
+                    "header": "Scenario"
+                },
+                {
+                    "map_type": "ParameterValueType",
+                    "position": "hidden"
+                },
+                {
+                    "map_type": "IndexName",
+                    "position": "hidden"
+                },
+                {
+                    "map_type": "ParameterValueIndex",
+                    "position": 5,
+                    "header": "Time"
+                },
+                {
+                    "map_type": "IndexName",
+                    "position": "hidden"
+                },
+                {
+                    "map_type": "ParameterValueIndex",
+                    "position": "hidden"
+                },
+                {
+                    "map_type": "ExpandedValue",
+                    "position": 6,
+                    "header": "Value"
+                }
+            ],
+            "enabled": true,
+            "always_export_header": true,
+            "use_fixed_table_name": false
+        }
+    }
+}

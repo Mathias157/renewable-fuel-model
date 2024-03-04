@@ -1,0 +1,210 @@
+Could not import relationship with objects ('Z07_ST_HTL', 'Z07_Straw') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z07_ST_HTL__Z07_Straw' are invalid.
+Could not import relationship with objects ('Z07_ST_TG-FT', 'Z07_Straw') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z07_ST_TG-FT__Z07_Straw' are invalid.
+Could not import relationship with objects ('Z07_ST_TG-MeOH', 'Z07_Straw') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z07_ST_TG-MeOH__Z07_Straw' are invalid.
+Could not import relationship with objects ('Z07_WO_HTL', 'Z07_Wood') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z07_WO_HTL__Z07_Wood' are invalid.
+Could not import relationship with objects ('Z07_WO_TG-FT', 'Z07_Wood') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z07_WO_TG-FT__Z07_Wood' are invalid.
+Could not import relationship with objects ('Z07_WO_TG-MeOH', 'Z07_Wood') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z07_WO_TG-MeOH__Z07_Wood' are invalid.
+Could not import relationship with objects ('Z08_ST_HTL', 'Z08_Straw') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z08_ST_HTL__Z08_Straw' are invalid.
+Could not import relationship with objects ('Z08_ST_TG-FT', 'Z08_Straw') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z08_ST_TG-FT__Z08_Straw' are invalid.
+Could not import relationship with objects ('Z08_ST_TG-MeOH', 'Z08_Straw') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z08_ST_TG-MeOH__Z08_Straw' are invalid.
+Could not import relationship with objects ('Z08_WO_HTL', 'Z08_Wood') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z08_WO_HTL__Z08_Wood' are invalid.
+Could not import relationship with objects ('Z08_WO_TG-FT', 'Z08_Wood') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z08_WO_TG-FT__Z08_Wood' are invalid.
+Could not import relationship with objects ('Z08_WO_TG-MeOH', 'Z08_Wood') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z08_WO_TG-MeOH__Z08_Wood' are invalid.
+Could not import relationship with objects ('Z09_ST_HTL', 'Z09_Straw') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z09_ST_HTL__Z09_Straw' are invalid.
+Could not import relationship with objects ('Z09_ST_TG-FT', 'Z09_Straw') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z09_ST_TG-FT__Z09_Straw' are invalid.
+Could not import relationship with objects ('Z09_ST_TG-MeOH', 'Z09_Straw') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z09_ST_TG-MeOH__Z09_Straw' are invalid.
+Could not import relationship with objects ('Z09_WO_HTL', 'Z09_Wood') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z09_WO_HTL__Z09_Wood' are invalid.
+Could not import relationship with objects ('Z09_WO_TG-FT', 'Z09_Wood') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z09_WO_TG-FT__Z09_Wood' are invalid.
+Could not import relationship with objects ('Z09_WO_TG-MeOH', 'Z09_Wood') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z09_WO_TG-MeOH__Z09_Wood' are invalid.
+Could not import relationship with objects ('Z10_ST_HTL', 'Z10_Straw') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z10_ST_HTL__Z10_Straw' are invalid.
+Could not import relationship with objects ('Z10_ST_TG-FT', 'Z10_Straw') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z10_ST_TG-FT__Z10_Straw' are invalid.
+Could not import relationship with objects ('Z10_ST_TG-MeOH', 'Z10_Straw') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z10_ST_TG-MeOH__Z10_Straw' are invalid.
+Could not import relationship with objects ('Z10_WO_HTL', 'Z10_Wood') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z10_WO_HTL__Z10_Wood' are invalid.
+Could not import relationship with objects ('Z10_WO_TG-FT', 'Z10_Wood') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z10_WO_TG-FT__Z10_Wood' are invalid.
+Could not import relationship with objects ('Z10_WO_TG-MeOH', 'Z10_Wood') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z10_WO_TG-MeOH__Z10_Wood' are invalid.
+Could not import relationship with objects ('Z11_ST_HTL', 'Z11_Straw') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z11_ST_HTL__Z11_Straw' are invalid.
+Could not import relationship with objects ('Z11_ST_TG-FT', 'Z11_Straw') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z11_ST_TG-FT__Z11_Straw' are invalid.
+Could not import relationship with objects ('Z11_ST_TG-MeOH', 'Z11_Straw') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z11_ST_TG-MeOH__Z11_Straw' are invalid.
+Could not import relationship with objects ('Z11_WO_HTL', 'Z11_Wood') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z11_WO_HTL__Z11_Wood' are invalid.
+Could not import relationship with objects ('Z11_WO_TG-FT', 'Z11_Wood') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z11_WO_TG-FT__Z11_Wood' are invalid.
+Could not import relationship with objects ('Z11_WO_TG-MeOH', 'Z11_Wood') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z11_WO_TG-MeOH__Z11_Wood' are invalid.
+Could not import relationship with objects ('Z07_WO_TG-FT-H2', 'Z07_Wood') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z07_WO_TG-FT-H2__Z07_Wood' are invalid.
+Could not import relationship with objects ('Z07_ST_TG-FT-H2', 'Z07_Straw') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z07_ST_TG-FT-H2__Z07_Straw' are invalid.
+Could not import relationship with objects ('Z08_ST_TG-FT-H2', 'Z08_Straw') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z08_ST_TG-FT-H2__Z08_Straw' are invalid.
+Could not import relationship with objects ('Z08_WO_TG-FT-H2', 'Z08_Wood') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z08_WO_TG-FT-H2__Z08_Wood' are invalid.
+Could not import relationship with objects ('Z09_ST_TG-FT-H2', 'Z09_Straw') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z09_ST_TG-FT-H2__Z09_Straw' are invalid.
+Could not import relationship with objects ('Z09_WO_TG-FT-H2', 'Z09_Wood') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z09_WO_TG-FT-H2__Z09_Wood' are invalid.
+Could not import relationship with objects ('Z10_ST_TG-FT-H2', 'Z10_Straw') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z10_ST_TG-FT-H2__Z10_Straw' are invalid.
+Could not import relationship with objects ('Z10_WO_TG-FT-H2', 'Z10_Wood') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z10_WO_TG-FT-H2__Z10_Wood' are invalid.
+Could not import relationship with objects ('Z11_ST_TG-FT-H2', 'Z11_Straw') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z11_ST_TG-FT-H2__Z11_Straw' are invalid.
+Could not import relationship with objects ('Z11_WO_TG-FT-H2', 'Z11_Wood') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z11_WO_TG-FT-H2__Z11_Wood' are invalid.
+Could not import relationship with objects ('WoodImport', 'Z07_Wood') into 'unit__to_node': Some of the objects in relationship 'unit__to_node_WoodImport__Z07_Wood' are invalid.
+Could not import relationship with objects ('WoodImport', 'Z08_Wood') into 'unit__to_node': Some of the objects in relationship 'unit__to_node_WoodImport__Z08_Wood' are invalid.
+Could not import relationship with objects ('WoodImport', 'Z09_Wood') into 'unit__to_node': Some of the objects in relationship 'unit__to_node_WoodImport__Z09_Wood' are invalid.
+Could not import relationship with objects ('WoodImport', 'Z10_Wood') into 'unit__to_node': Some of the objects in relationship 'unit__to_node_WoodImport__Z10_Wood' are invalid.
+Could not import relationship with objects ('WoodImport', 'Z11_Wood') into 'unit__to_node': Some of the objects in relationship 'unit__to_node_WoodImport__Z11_Wood' are invalid.
+Could not import relationship with objects ('Z07_ST_HTL', 'Z07_Straw') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z07_ST_HTL__Z07_Straw' are invalid.
+Could not import relationship with objects ('Z07_ST_TG-FT', 'Z07_Straw') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z07_ST_TG-FT__Z07_Straw' are invalid.
+Could not import relationship with objects ('Z07_ST_TG-MeOH', 'Z07_Straw') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z07_ST_TG-MeOH__Z07_Straw' are invalid.
+Could not import relationship with objects ('Z07_WO_HTL', 'Z07_Wood') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z07_WO_HTL__Z07_Wood' are invalid.
+Could not import relationship with objects ('Z07_WO_TG-FT', 'Z07_Wood') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z07_WO_TG-FT__Z07_Wood' are invalid.
+Could not import relationship with objects ('Z07_WO_TG-MeOH', 'Z07_Wood') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z07_WO_TG-MeOH__Z07_Wood' are invalid.
+Could not import relationship with objects ('Z08_ST_HTL', 'Z08_Straw') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z08_ST_HTL__Z08_Straw' are invalid.
+Could not import relationship with objects ('Z08_ST_TG-FT', 'Z08_Straw') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z08_ST_TG-FT__Z08_Straw' are invalid.
+Could not import relationship with objects ('Z08_ST_TG-MeOH', 'Z08_Straw') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z08_ST_TG-MeOH__Z08_Straw' are invalid.
+Could not import relationship with objects ('Z08_WO_HTL', 'Z08_Wood') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z08_WO_HTL__Z08_Wood' are invalid.
+Could not import relationship with objects ('Z08_WO_TG-FT', 'Z08_Wood') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z08_WO_TG-FT__Z08_Wood' are invalid.
+Could not import relationship with objects ('Z08_WO_TG-MeOH', 'Z08_Wood') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z08_WO_TG-MeOH__Z08_Wood' are invalid.
+Could not import relationship with objects ('Z09_ST_HTL', 'Z09_Straw') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z09_ST_HTL__Z09_Straw' are invalid.
+Could not import relationship with objects ('Z09_ST_TG-FT', 'Z09_Straw') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z09_ST_TG-FT__Z09_Straw' are invalid.
+Could not import relationship with objects ('Z09_ST_TG-MeOH', 'Z09_Straw') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z09_ST_TG-MeOH__Z09_Straw' are invalid.
+Could not import relationship with objects ('Z09_WO_HTL', 'Z09_Wood') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z09_WO_HTL__Z09_Wood' are invalid.
+Could not import relationship with objects ('Z09_WO_TG-FT', 'Z09_Wood') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z09_WO_TG-FT__Z09_Wood' are invalid.
+Could not import relationship with objects ('Z09_WO_TG-MeOH', 'Z09_Wood') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z09_WO_TG-MeOH__Z09_Wood' are invalid.
+Could not import relationship with objects ('Z10_ST_HTL', 'Z10_Straw') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z10_ST_HTL__Z10_Straw' are invalid.
+Could not import relationship with objects ('Z10_ST_TG-FT', 'Z10_Straw') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z10_ST_TG-FT__Z10_Straw' are invalid.
+Could not import relationship with objects ('Z10_ST_TG-MeOH', 'Z10_Straw') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z10_ST_TG-MeOH__Z10_Straw' are invalid.
+Could not import relationship with objects ('Z10_WO_HTL', 'Z10_Wood') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z10_WO_HTL__Z10_Wood' are invalid.
+Could not import relationship with objects ('Z10_WO_TG-FT', 'Z10_Wood') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z10_WO_TG-FT__Z10_Wood' are invalid.
+Could not import relationship with objects ('Z10_WO_TG-MeOH', 'Z10_Wood') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z10_WO_TG-MeOH__Z10_Wood' are invalid.
+Could not import relationship with objects ('Z11_ST_HTL', 'Z11_Straw') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z11_ST_HTL__Z11_Straw' are invalid.
+Could not import relationship with objects ('Z11_ST_TG-FT', 'Z11_Straw') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z11_ST_TG-FT__Z11_Straw' are invalid.
+Could not import relationship with objects ('Z11_ST_TG-MeOH', 'Z11_Straw') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z11_ST_TG-MeOH__Z11_Straw' are invalid.
+Could not import relationship with objects ('Z11_WO_HTL', 'Z11_Wood') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z11_WO_HTL__Z11_Wood' are invalid.
+Could not import relationship with objects ('Z11_WO_TG-FT', 'Z11_Wood') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z11_WO_TG-FT__Z11_Wood' are invalid.
+Could not import relationship with objects ('Z11_WO_TG-MeOH', 'Z11_Wood') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z11_WO_TG-MeOH__Z11_Wood' are invalid.
+Could not import relationship with objects ('Z07_WO_TG-FT-H2', 'Z07_Wood') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z07_WO_TG-FT-H2__Z07_Wood' are invalid.
+Could not import relationship with objects ('Z07_ST_TG-FT-H2', 'Z07_Straw') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z07_ST_TG-FT-H2__Z07_Straw' are invalid.
+Could not import relationship with objects ('Z08_ST_TG-FT-H2', 'Z08_Straw') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z08_ST_TG-FT-H2__Z08_Straw' are invalid.
+Could not import relationship with objects ('Z08_WO_TG-FT-H2', 'Z08_Wood') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z08_WO_TG-FT-H2__Z08_Wood' are invalid.
+Could not import relationship with objects ('Z09_ST_TG-FT-H2', 'Z09_Straw') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z09_ST_TG-FT-H2__Z09_Straw' are invalid.
+Could not import relationship with objects ('Z09_WO_TG-FT-H2', 'Z09_Wood') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z09_WO_TG-FT-H2__Z09_Wood' are invalid.
+Could not import relationship with objects ('Z10_ST_TG-FT-H2', 'Z10_Straw') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z10_ST_TG-FT-H2__Z10_Straw' are invalid.
+Could not import relationship with objects ('Z10_WO_TG-FT-H2', 'Z10_Wood') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z10_WO_TG-FT-H2__Z10_Wood' are invalid.
+Could not import relationship with objects ('Z11_ST_TG-FT-H2', 'Z11_Straw') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z11_ST_TG-FT-H2__Z11_Straw' are invalid.
+Could not import relationship with objects ('Z11_WO_TG-FT-H2', 'Z11_Wood') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_Z11_WO_TG-FT-H2__Z11_Wood' are invalid.
+Could not import relationship with objects ('WoodImport', 'Z07_Wood') into 'unit__to_node': Some of the objects in relationship 'unit__to_node_WoodImport__Z07_Wood' are invalid.
+Could not import relationship with objects ('WoodImport', 'Z08_Wood') into 'unit__to_node': Some of the objects in relationship 'unit__to_node_WoodImport__Z08_Wood' are invalid.
+Could not import relationship with objects ('WoodImport', 'Z09_Wood') into 'unit__to_node': Some of the objects in relationship 'unit__to_node_WoodImport__Z09_Wood' are invalid.
+Could not import relationship with objects ('WoodImport', 'Z10_Wood') into 'unit__to_node': Some of the objects in relationship 'unit__to_node_WoodImport__Z10_Wood' are invalid.
+Could not import relationship with objects ('WoodImport', 'Z11_Wood') into 'unit__to_node': Some of the objects in relationship 'unit__to_node_WoodImport__Z11_Wood' are invalid.
+Could not import relationship with objects ('Fossil_Diesel', 'Z07_Road') into 'unit__to_node': Some of the objects in relationship 'unit__to_node_Fossil_Diesel__Z07_Road' are invalid.
+Could not import relationship with objects ('Fossil_Diesel', 'Z08_Road') into 'unit__to_node': Some of the objects in relationship 'unit__to_node_Fossil_Diesel__Z08_Road' are invalid.
+Could not import relationship with objects ('Fossil_Diesel', 'Z09_Road') into 'unit__to_node': Some of the objects in relationship 'unit__to_node_Fossil_Diesel__Z09_Road' are invalid.
+Could not import relationship with objects ('Fossil_Diesel', 'Z10_Road') into 'unit__to_node': Some of the objects in relationship 'unit__to_node_Fossil_Diesel__Z10_Road' are invalid.
+Could not import relationship with objects ('Fossil_Diesel', 'Z11_Road') into 'unit__to_node': Some of the objects in relationship 'unit__to_node_Fossil_Diesel__Z11_Road' are invalid.
+Could not import relationship with objects ('Fossil_FuelOil', 'Z07_Shipping') into 'unit__to_node': Some of the objects in relationship 'unit__to_node_Fossil_FuelOil__Z07_Shipping' are invalid.
+Could not import relationship with objects ('Fossil_FuelOil', 'Z08_Shipping') into 'unit__to_node': Some of the objects in relationship 'unit__to_node_Fossil_FuelOil__Z08_Shipping' are invalid.
+Could not import relationship with objects ('Fossil_FuelOil', 'Z09_Shipping') into 'unit__to_node': Some of the objects in relationship 'unit__to_node_Fossil_FuelOil__Z09_Shipping' are invalid.
+Could not import relationship with objects ('Fossil_FuelOil', 'Z10_Shipping') into 'unit__to_node': Some of the objects in relationship 'unit__to_node_Fossil_FuelOil__Z10_Shipping' are invalid.
+Could not import relationship with objects ('Fossil_FuelOil', 'Z11_Shipping') into 'unit__to_node': Some of the objects in relationship 'unit__to_node_Fossil_FuelOil__Z11_Shipping' are invalid.
+Could not import relationship with objects ('Fossil_Jetfuel', 'Z07_Jetfuel') into 'unit__to_node': Some of the objects in relationship 'unit__to_node_Fossil_Jetfuel__Z07_Jetfuel' are invalid.
+Could not import relationship with objects ('Fossil_Jetfuel', 'Z08_Jetfuel') into 'unit__to_node': Some of the objects in relationship 'unit__to_node_Fossil_Jetfuel__Z08_Jetfuel' are invalid.
+Could not import relationship with objects ('Fossil_Jetfuel', 'Z09_Jetfuel') into 'unit__to_node': Some of the objects in relationship 'unit__to_node_Fossil_Jetfuel__Z09_Jetfuel' are invalid.
+Could not import relationship with objects ('Fossil_Jetfuel', 'Z10_Jetfuel') into 'unit__to_node': Some of the objects in relationship 'unit__to_node_Fossil_Jetfuel__Z10_Jetfuel' are invalid.
+Could not import relationship with objects ('Fossil_Jetfuel', 'Z11_Jetfuel') into 'unit__to_node': Some of the objects in relationship 'unit__to_node_Fossil_Jetfuel__Z11_Jetfuel' are invalid.
+Could not import parameter value for '['Z07_ST_HTL', 'Z07_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z07_ST_TG-FT', 'Z07_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z07_ST_TG-MeOH', 'Z07_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z07_WO_HTL', 'Z07_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z07_WO_TG-FT', 'Z07_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z07_WO_TG-MeOH', 'Z07_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z08_ST_HTL', 'Z08_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z08_ST_TG-FT', 'Z08_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z08_ST_TG-MeOH', 'Z08_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z08_WO_HTL', 'Z08_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z08_WO_TG-FT', 'Z08_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z08_WO_TG-MeOH', 'Z08_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z09_ST_HTL', 'Z09_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z09_ST_TG-FT', 'Z09_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z09_ST_TG-MeOH', 'Z09_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z09_WO_HTL', 'Z09_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z09_WO_TG-FT', 'Z09_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z09_WO_TG-MeOH', 'Z09_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z10_ST_HTL', 'Z10_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z10_ST_TG-FT', 'Z10_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z10_ST_TG-MeOH', 'Z10_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z10_WO_HTL', 'Z10_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z10_WO_TG-FT', 'Z10_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z10_WO_TG-MeOH', 'Z10_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z11_ST_HTL', 'Z11_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z11_ST_TG-FT', 'Z11_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z11_ST_TG-MeOH', 'Z11_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z11_WO_HTL', 'Z11_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z11_WO_TG-FT', 'Z11_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z11_WO_TG-MeOH', 'Z11_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z07_WO_TG-FT-H2', 'Z07_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z07_ST_TG-FT-H2', 'Z07_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z08_ST_TG-FT-H2', 'Z08_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z08_WO_TG-FT-H2', 'Z08_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z09_ST_TG-FT-H2', 'Z09_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z09_WO_TG-FT-H2', 'Z09_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z10_ST_TG-FT-H2', 'Z10_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z10_WO_TG-FT-H2', 'Z10_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z11_ST_TG-FT-H2', 'Z11_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z11_WO_TG-FT-H2', 'Z11_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['WoodImport', 'Z07_Wood']', class 'unit__to_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['WoodImport', 'Z08_Wood']', class 'unit__to_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['WoodImport', 'Z09_Wood']', class 'unit__to_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['WoodImport', 'Z10_Wood']', class 'unit__to_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['WoodImport', 'Z11_Wood']', class 'unit__to_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z07_ST_HTL', 'Z07_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z07_ST_TG-FT', 'Z07_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z07_ST_TG-MeOH', 'Z07_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z07_WO_HTL', 'Z07_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z07_WO_TG-FT', 'Z07_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z07_WO_TG-MeOH', 'Z07_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z08_ST_HTL', 'Z08_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z08_ST_TG-FT', 'Z08_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z08_ST_TG-MeOH', 'Z08_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z08_WO_HTL', 'Z08_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z08_WO_TG-FT', 'Z08_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z08_WO_TG-MeOH', 'Z08_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z09_ST_HTL', 'Z09_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z09_ST_TG-FT', 'Z09_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z09_ST_TG-MeOH', 'Z09_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z09_WO_HTL', 'Z09_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z09_WO_TG-FT', 'Z09_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z09_WO_TG-MeOH', 'Z09_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z10_ST_HTL', 'Z10_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z10_ST_TG-FT', 'Z10_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z10_ST_TG-MeOH', 'Z10_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z10_WO_HTL', 'Z10_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z10_WO_TG-FT', 'Z10_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z10_WO_TG-MeOH', 'Z10_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z11_ST_HTL', 'Z11_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z11_ST_TG-FT', 'Z11_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z11_ST_TG-MeOH', 'Z11_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z11_WO_HTL', 'Z11_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z11_WO_TG-FT', 'Z11_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z11_WO_TG-MeOH', 'Z11_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z07_WO_TG-FT-H2', 'Z07_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z07_ST_TG-FT-H2', 'Z07_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z08_ST_TG-FT-H2', 'Z08_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z08_WO_TG-FT-H2', 'Z08_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z09_ST_TG-FT-H2', 'Z09_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z09_WO_TG-FT-H2', 'Z09_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z10_ST_TG-FT-H2', 'Z10_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z10_WO_TG-FT-H2', 'Z10_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z11_ST_TG-FT-H2', 'Z11_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Z11_WO_TG-FT-H2', 'Z11_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['WoodImport', 'Z07_Wood']', class 'unit__to_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['WoodImport', 'Z08_Wood']', class 'unit__to_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['WoodImport', 'Z09_Wood']', class 'unit__to_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['WoodImport', 'Z10_Wood']', class 'unit__to_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['WoodImport', 'Z11_Wood']', class 'unit__to_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['Fossil_Diesel', 'Z07_Road']', class 'unit__to_node', parameter 'fix_unit_flow': Missing object or relationship identifier.
+Could not import parameter value for '['Fossil_Diesel', 'Z08_Road']', class 'unit__to_node', parameter 'fix_unit_flow': Missing object or relationship identifier.
+Could not import parameter value for '['Fossil_Diesel', 'Z09_Road']', class 'unit__to_node', parameter 'fix_unit_flow': Missing object or relationship identifier.
+Could not import parameter value for '['Fossil_Diesel', 'Z10_Road']', class 'unit__to_node', parameter 'fix_unit_flow': Missing object or relationship identifier.
+Could not import parameter value for '['Fossil_Diesel', 'Z11_Road']', class 'unit__to_node', parameter 'fix_unit_flow': Missing object or relationship identifier.
+Could not import parameter value for '['Fossil_FuelOil', 'Z07_Shipping']', class 'unit__to_node', parameter 'fix_unit_flow': Missing object or relationship identifier.
+Could not import parameter value for '['Fossil_FuelOil', 'Z08_Shipping']', class 'unit__to_node', parameter 'fix_unit_flow': Missing object or relationship identifier.
+Could not import parameter value for '['Fossil_FuelOil', 'Z09_Shipping']', class 'unit__to_node', parameter 'fix_unit_flow': Missing object or relationship identifier.
+Could not import parameter value for '['Fossil_FuelOil', 'Z10_Shipping']', class 'unit__to_node', parameter 'fix_unit_flow': Missing object or relationship identifier.
+Could not import parameter value for '['Fossil_FuelOil', 'Z11_Shipping']', class 'unit__to_node', parameter 'fix_unit_flow': Missing object or relationship identifier.
+Could not import parameter value for '['Fossil_Jetfuel', 'Z07_Jetfuel']', class 'unit__to_node', parameter 'fix_unit_flow': Missing object or relationship identifier.
+Could not import parameter value for '['Fossil_Jetfuel', 'Z08_Jetfuel']', class 'unit__to_node', parameter 'fix_unit_flow': Missing object or relationship identifier.
+Could not import parameter value for '['Fossil_Jetfuel', 'Z09_Jetfuel']', class 'unit__to_node', parameter 'fix_unit_flow': Missing object or relationship identifier.
+Could not import parameter value for '['Fossil_Jetfuel', 'Z10_Jetfuel']', class 'unit__to_node', parameter 'fix_unit_flow': Missing object or relationship identifier.
+Could not import parameter value for '['Fossil_Jetfuel', 'Z11_Jetfuel']', class 'unit__to_node', parameter 'fix_unit_flow': Missing object or relationship identifier.

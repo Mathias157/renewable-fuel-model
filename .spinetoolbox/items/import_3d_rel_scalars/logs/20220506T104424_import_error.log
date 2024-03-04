@@ -1,0 +1,4 @@
+Could not import relationship with objects ('DK1_ST_TG-FT', 'DK1_PotWasteheat', 'DK1_Straw') into 'unit__node__node': There's already a relationship called 'unit__node__node_DK1_ST_TG-FT__DK1_PotWasteheat__DK1_Straw' in the same class.
+Could not import relationship with objects ('DK1_WO_TG-FT', 'DK1_PotWasteheat', 'DK1_Wood') into 'unit__node__node': There's already a relationship called 'unit__node__node_DK1_WO_TG-FT__DK1_PotWasteheat__DK1_Wood' in the same class.
+Could not import parameter value for '['DK1_ST_TG-FT', 'DK1_PotWasteheat', 'DK1_Straw']', class 'unit__node__node', parameter 'fix_ratio_out_in_unit_flow': Missing object or relationship identifier.
+Could not import parameter value for '['DK1_WO_TG-FT', 'DK1_PotWasteheat', 'DK1_Wood']', class 'unit__node__node', parameter 'fix_ratio_out_in_unit_flow': Missing object or relationship identifier.

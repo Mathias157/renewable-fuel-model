@@ -1,0 +1,24 @@
+{
+    "name": "Scalars",
+    "tooltype": "python",
+    "includes": [
+        "Scalars.py"
+    ],
+    "description": "",
+    "inputfiles": [],
+    "inputfiles_opt": [],
+    "outputfiles": [
+        "scalars.csv",
+        "scalars_rel_2D.csv",
+        "scalars_rel_3D.csv"
+    ],
+    "cmdline_args": [],
+    "execute_in_work": false,
+    "includes_main_path": "../../..",
+    "execution_settings": {
+        "kernel_spec_name": "",
+        "env": "",
+        "use_jupyter_console": false,
+        "executable": "C:\\Users\\mathi\\anaconda3\\envs\\spine\\python.exe"
+    }
+}
