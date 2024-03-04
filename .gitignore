@@ -18,4 +18,5 @@
 /base/bui/gamsscr/*.*
 *.csv
 
-
+!Inputs.xlsx
+!PreProcessing.xlsx
