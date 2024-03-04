@@ -1,5 +1,5 @@
 # RenewableFuelModel
-A fuel production model in SpineOpt with 11 generalised nodes (Z01-Z11).
+A renewable fuel production model in SpineOpt with 11 generalised nodes (Z01-Z11).
 
 Note, this was developed using a very old version of SpineOpt and SpineToolbox:
 - SpineOpt v0.6.3
