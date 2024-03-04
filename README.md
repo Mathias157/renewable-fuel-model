@@ -1,8 +1,8 @@
 # RenewableFuelModel
 A renewable fuel production model in SpineOpt with 11 generalised nodes (Z01-Z11).
 
-Note that its intended use is in a soft-link with Balmorel (https://github.com/balmorelcommunity/Balmorel) for assessing impacts on the energy system.
-It is therefore adviced to add investment options of electricity generating technologies if using this model as stand-alone.
+It was intended to soft-link it to Balmorel (https://github.com/balmorelcommunity/Balmorel) to assess impacts on the energy system.
+It is therefore advised to add investment options of electricity generating technologies if using this as a stand-alone model.
 
 Note, this was developed using a very old version of SpineOpt and SpineToolbox:
 - SpineOpt v0.6.3
