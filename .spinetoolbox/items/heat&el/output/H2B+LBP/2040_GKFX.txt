@@ -1,0 +1,12 @@
+DH commands
+GKFX('2040','DK1_Large','GNR_EH_HEAT') = 482 ;
+GKFX('2040','DK2_Large','GNR_EH_HEAT') = 360 ;
+GKFX('2040','NO1_A3','GNR_EH_HEAT') = 100 ;
+GKFX('2040','NO2_A2','GNR_EH_HEAT') = 26 ;
+GKFX('2040','NO3_A3','GNR_EH_HEAT') = 30 ;
+GKFX('2040','NO4_A2','GNR_EH_HEAT') = 12 ;
+GKFX('2040','NO5_A2','GNR_EH_HEAT') = 15 ;
+GKFX('2040','SE1_medium','GNR_EH_HEAT') = 156 ;
+GKFX('2040','SE2_medium','GNR_EH_HEAT') = 255 ;
+GKFX('2040','SE3_large','GNR_EH_HEAT') = 650 ;
+GKFX('2040','SE4_large','GNR_EH_HEAT') = 155 ;

@@ -1,0 +1,102 @@
+{
+    "item_type": "Exporter",
+    "output_format": "csv",
+    "name": "DemandFlows",
+    "description": "",
+    "mappings": {
+        "Mapping 1": {
+            "type": "relationship_parameter_values",
+            "mapping": [
+                {
+                    "map_type": "RelationshipClass",
+                    "position": "hidden"
+                },
+                {
+                    "map_type": "RelationshipClassObjectClass",
+                    "position": "hidden"
+                },
+                {
+                    "map_type": "RelationshipClassObjectClass",
+                    "position": "hidden"
+                },
+                {
+                    "map_type": "RelationshipClassObjectClass",
+                    "position": "hidden"
+                },
+                {
+                    "map_type": "RelationshipClassObjectClass",
+                    "position": "hidden"
+                },
+                {
+                    "map_type": "ParameterDefinition",
+                    "position": 0,
+                    "header": "Parameter",
+                    "filter_re": "unit_flow|connection_flow"
+                },
+                {
+                    "map_type": "ParameterValueList",
+                    "position": "hidden",
+                    "ignorable": true
+                },
+                {
+                    "map_type": "Relationship",
+                    "position": "hidden"
+                },
+                {
+                    "map_type": "RelationshipObject",
+                    "position": "hidden"
+                },
+                {
+                    "map_type": "RelationshipObject",
+                    "position": 1,
+                    "header": "Unit"
+                },
+                {
+                    "map_type": "RelationshipObject",
+                    "position": 2,
+                    "header": "Node",
+                    "filter_re": "DK1_Jetfuel|DK2_Jetfuel|NO1_Jetfuel|NO2_Jetfuel|NO3_Jetfuel|NO4_Jetfuel|NO5_Jetfuel|SE1_Jetfuel|SE2_Jetfuel|SE3_Jetfuel|SE4_Jetfuel|DK1_Shipping|DK2_Shipping|NO1_Shipping|NO2_Shipping|NO3_Shipping|NO4_Shipping|NO5_Shipping|SE1_Shipping|SE2_Shipping|SE3_Shipping|SE4_Shipping|DK1_Road|DK2_Road|NO1_Road|NO2_Road|NO3_Road|NO4_Road|NO5_Road|SE1_Road|SE2_Road|SE3_Road|SE4_Road"
+                },
+                {
+                    "map_type": "RelationshipObject",
+                    "position": 3,
+                    "header": "Direction"
+                },
+                {
+                    "map_type": "Alternative",
+                    "position": 4,
+                    "header": "Scenario"
+                },
+                {
+                    "map_type": "ParameterValueType",
+                    "position": "hidden"
+                },
+                {
+                    "map_type": "IndexName",
+                    "position": "hidden"
+                },
+                {
+                    "map_type": "ParameterValueIndex",
+                    "position": 5,
+                    "header": "Time"
+                },
+                {
+                    "map_type": "IndexName",
+                    "position": "hidden"
+                },
+                {
+                    "map_type": "ParameterValueIndex",
+                    "position": "hidden"
+                },
+                {
+                    "map_type": "ExpandedValue",
+                    "position": 6,
+                    "header": "Value"
+                }
+            ],
+            "enabled": true,
+            "always_export_header": true,
+            "use_fixed_table_name": false
+        }
+    }
+}

@@ -1,0 +1,2 @@
+Could not import relationship with objects ('CPH_2030_Electrolyser_AEC,DK2',) into 'unit__from_node': Some of the objects in relationship 'unit__from_node_CPH_2030_Electrolyser_AEC,DK2' are invalid.
+Could not import parameter value for '['CPH_2030_Electrolyser_AEC,DK2']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.

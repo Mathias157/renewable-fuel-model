@@ -1,0 +1,44 @@
+Could not import relationship with objects ('DK1_ST_HTL', 'DK1_Straw') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_DK1_ST_HTL__DK1_Straw' are invalid.
+Could not import relationship with objects ('DK1_WO_HTL', 'DK1_Wood') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_DK1_WO_HTL__DK1_Wood' are invalid.
+Could not import relationship with objects ('DK2_ST_HTL', 'DK2_Straw') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_DK2_ST_HTL__DK2_Straw' are invalid.
+Could not import relationship with objects ('DK2_WO_HTL', 'DK2_Wood') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_DK2_WO_HTL__DK2_Wood' are invalid.
+Could not import relationship with objects ('NO1_ST_HTL', 'NO1_Straw') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_NO1_ST_HTL__NO1_Straw' are invalid.
+Could not import relationship with objects ('NO1_WO_HTL', 'NO1_Wood') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_NO1_WO_HTL__NO1_Wood' are invalid.
+Could not import relationship with objects ('NO2_ST_HTL', 'NO2_Straw') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_NO2_ST_HTL__NO2_Straw' are invalid.
+Could not import relationship with objects ('NO2_WO_HTL', 'NO2_Wood') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_NO2_WO_HTL__NO2_Wood' are invalid.
+Could not import relationship with objects ('NO3_ST_HTL', 'NO3_Straw') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_NO3_ST_HTL__NO3_Straw' are invalid.
+Could not import relationship with objects ('NO3_WO_HTL', 'NO3_Wood') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_NO3_WO_HTL__NO3_Wood' are invalid.
+Could not import relationship with objects ('NO4_ST_HTL', 'NO4_Straw') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_NO4_ST_HTL__NO4_Straw' are invalid.
+Could not import relationship with objects ('NO4_WO_HTL', 'NO4_Wood') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_NO4_WO_HTL__NO4_Wood' are invalid.
+Could not import relationship with objects ('NO5_ST_HTL', 'NO5_Straw') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_NO5_ST_HTL__NO5_Straw' are invalid.
+Could not import relationship with objects ('NO5_WO_HTL', 'NO5_Wood') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_NO5_WO_HTL__NO5_Wood' are invalid.
+Could not import relationship with objects ('SE1_ST_HTL', 'SE1_Straw') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_SE1_ST_HTL__SE1_Straw' are invalid.
+Could not import relationship with objects ('SE1_WO_HTL', 'SE1_Wood') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_SE1_WO_HTL__SE1_Wood' are invalid.
+Could not import relationship with objects ('SE2_ST_HTL', 'SE2_Straw') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_SE2_ST_HTL__SE2_Straw' are invalid.
+Could not import relationship with objects ('SE2_WO_HTL', 'SE2_Wood') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_SE2_WO_HTL__SE2_Wood' are invalid.
+Could not import relationship with objects ('SE3_ST_HTL', 'SE3_Straw') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_SE3_ST_HTL__SE3_Straw' are invalid.
+Could not import relationship with objects ('SE3_WO_HTL', 'SE3_Wood') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_SE3_WO_HTL__SE3_Wood' are invalid.
+Could not import relationship with objects ('SE4_ST_HTL', 'SE4_Straw') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_SE4_ST_HTL__SE4_Straw' are invalid.
+Could not import relationship with objects ('SE4_WO_HTL', 'SE4_Wood') into 'unit__from_node': Some of the objects in relationship 'unit__from_node_SE4_WO_HTL__SE4_Wood' are invalid.
+Could not import parameter value for '['DK1_ST_HTL', 'DK1_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['DK1_WO_HTL', 'DK1_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['DK2_ST_HTL', 'DK2_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['DK2_WO_HTL', 'DK2_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['NO1_ST_HTL', 'NO1_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['NO1_WO_HTL', 'NO1_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['NO2_ST_HTL', 'NO2_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['NO2_WO_HTL', 'NO2_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['NO3_ST_HTL', 'NO3_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['NO3_WO_HTL', 'NO3_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['NO4_ST_HTL', 'NO4_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['NO4_WO_HTL', 'NO4_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['NO5_ST_HTL', 'NO5_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['NO5_WO_HTL', 'NO5_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['SE1_ST_HTL', 'SE1_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['SE1_WO_HTL', 'SE1_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['SE2_ST_HTL', 'SE2_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['SE2_WO_HTL', 'SE2_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['SE3_ST_HTL', 'SE3_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['SE3_WO_HTL', 'SE3_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['SE4_ST_HTL', 'SE4_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['SE4_WO_HTL', 'SE4_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.

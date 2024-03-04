@@ -1,0 +1,44 @@
+Could not import relationship with objects ('DK1_ST_Pyro', 'DK1_Straw') into 'unit__from_node': There's already a relationship called 'unit__from_node_DK1_ST_Pyro__DK1_Straw' in the same class.
+Could not import relationship with objects ('DK1_WO_Pyro', 'DK1_Wood') into 'unit__from_node': There's already a relationship called 'unit__from_node_DK1_WO_Pyro__DK1_Wood' in the same class.
+Could not import relationship with objects ('DK2_ST_Pyro', 'DK2_Straw') into 'unit__from_node': There's already a relationship called 'unit__from_node_DK2_ST_Pyro__DK2_Straw' in the same class.
+Could not import relationship with objects ('DK2_WO_Pyro', 'DK2_Wood') into 'unit__from_node': There's already a relationship called 'unit__from_node_DK2_WO_Pyro__DK2_Wood' in the same class.
+Could not import relationship with objects ('NO1_ST_Pyro', 'NO1_Straw') into 'unit__from_node': There's already a relationship called 'unit__from_node_NO1_ST_Pyro__NO1_Straw' in the same class.
+Could not import relationship with objects ('NO1_WO_Pyro', 'NO1_Wood') into 'unit__from_node': There's already a relationship called 'unit__from_node_NO1_WO_Pyro__NO1_Wood' in the same class.
+Could not import relationship with objects ('NO2_ST_Pyro', 'NO2_Straw') into 'unit__from_node': There's already a relationship called 'unit__from_node_NO2_ST_Pyro__NO2_Straw' in the same class.
+Could not import relationship with objects ('NO2_WO_Pyro', 'NO2_Wood') into 'unit__from_node': There's already a relationship called 'unit__from_node_NO2_WO_Pyro__NO2_Wood' in the same class.
+Could not import relationship with objects ('NO3_ST_Pyro', 'NO3_Straw') into 'unit__from_node': There's already a relationship called 'unit__from_node_NO3_ST_Pyro__NO3_Straw' in the same class.
+Could not import relationship with objects ('NO3_WO_Pyro', 'NO3_Wood') into 'unit__from_node': There's already a relationship called 'unit__from_node_NO3_WO_Pyro__NO3_Wood' in the same class.
+Could not import relationship with objects ('NO4_ST_Pyro', 'NO4_Straw') into 'unit__from_node': There's already a relationship called 'unit__from_node_NO4_ST_Pyro__NO4_Straw' in the same class.
+Could not import relationship with objects ('NO4_WO_Pyro', 'NO4_Wood') into 'unit__from_node': There's already a relationship called 'unit__from_node_NO4_WO_Pyro__NO4_Wood' in the same class.
+Could not import relationship with objects ('NO5_ST_Pyro', 'NO5_Straw') into 'unit__from_node': There's already a relationship called 'unit__from_node_NO5_ST_Pyro__NO5_Straw' in the same class.
+Could not import relationship with objects ('NO5_WO_Pyro', 'NO5_Wood') into 'unit__from_node': There's already a relationship called 'unit__from_node_NO5_WO_Pyro__NO5_Wood' in the same class.
+Could not import relationship with objects ('SE1_ST_Pyro', 'SE1_Straw') into 'unit__from_node': There's already a relationship called 'unit__from_node_SE1_ST_Pyro__SE1_Straw' in the same class.
+Could not import relationship with objects ('SE1_WO_Pyro', 'SE1_Wood') into 'unit__from_node': There's already a relationship called 'unit__from_node_SE1_WO_Pyro__SE1_Wood' in the same class.
+Could not import relationship with objects ('SE2_ST_Pyro', 'SE2_Straw') into 'unit__from_node': There's already a relationship called 'unit__from_node_SE2_ST_Pyro__SE2_Straw' in the same class.
+Could not import relationship with objects ('SE2_WO_Pyro', 'SE2_Wood') into 'unit__from_node': There's already a relationship called 'unit__from_node_SE2_WO_Pyro__SE2_Wood' in the same class.
+Could not import relationship with objects ('SE3_ST_Pyro', 'SE3_Straw') into 'unit__from_node': There's already a relationship called 'unit__from_node_SE3_ST_Pyro__SE3_Straw' in the same class.
+Could not import relationship with objects ('SE3_WO_Pyro', 'SE3_Wood') into 'unit__from_node': There's already a relationship called 'unit__from_node_SE3_WO_Pyro__SE3_Wood' in the same class.
+Could not import relationship with objects ('SE4_ST_Pyro', 'SE4_Straw') into 'unit__from_node': There's already a relationship called 'unit__from_node_SE4_ST_Pyro__SE4_Straw' in the same class.
+Could not import relationship with objects ('SE4_WO_Pyro', 'SE4_Wood') into 'unit__from_node': There's already a relationship called 'unit__from_node_SE4_WO_Pyro__SE4_Wood' in the same class.
+Could not import parameter value for '['DK1_ST_Pyro', 'DK1_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['DK1_WO_Pyro', 'DK1_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['DK2_ST_Pyro', 'DK2_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['DK2_WO_Pyro', 'DK2_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['NO1_ST_Pyro', 'NO1_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['NO1_WO_Pyro', 'NO1_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['NO2_ST_Pyro', 'NO2_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['NO2_WO_Pyro', 'NO2_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['NO3_ST_Pyro', 'NO3_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['NO3_WO_Pyro', 'NO3_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['NO4_ST_Pyro', 'NO4_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['NO4_WO_Pyro', 'NO4_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['NO5_ST_Pyro', 'NO5_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['NO5_WO_Pyro', 'NO5_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['SE1_ST_Pyro', 'SE1_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['SE1_WO_Pyro', 'SE1_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['SE2_ST_Pyro', 'SE2_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['SE2_WO_Pyro', 'SE2_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['SE3_ST_Pyro', 'SE3_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['SE3_WO_Pyro', 'SE3_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['SE4_ST_Pyro', 'SE4_Straw']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.
+Could not import parameter value for '['SE4_WO_Pyro', 'SE4_Wood']', class 'unit__from_node', parameter 'fuel_cost': Missing object or relationship identifier.

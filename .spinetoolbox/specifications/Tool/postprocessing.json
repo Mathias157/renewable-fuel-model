@@ -1,0 +1,22 @@
+{
+    "name": "PostProcessing",
+    "tooltype": "python",
+    "includes": [
+        "PostProcessing.py"
+    ],
+    "description": "",
+    "inputfiles": [],
+    "inputfiles_opt": [],
+    "outputfiles": [
+        "*.xlsx"
+    ],
+    "cmdline_args": [],
+    "execute_in_work": true,
+    "includes_main_path": "../../..",
+    "execution_settings": {
+        "kernel_spec_name": "",
+        "env": "",
+        "use_jupyter_console": false,
+        "executable": ""
+    }
+}
