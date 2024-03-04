@@ -1,6 +1,6 @@
 # RenewableFuelModel
 
-A fuel production model in SpineOpt at electricity bidding zone granularity over Denmark, Norway and Sweden.
+A renewable fuel production model in SpineOpt at electricity bidding zone granularity over Denmark, Norway and Sweden.
 
 It was intended to soft-link it to Balmorel (https://github.com/balmorelcommunity/Balmorel) to assess impacts on the energy system.
 It is therefore advised to add investment options of electricity generating technologies if using this as a stand-alone model.
